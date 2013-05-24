@@ -158,13 +158,13 @@
         "http://www.w3.org/TR/REC-DOM-Level-1"
     ],
     "dependencies": {
-       "htmlparser" : "1.x",
-       "request"    : "2.x",
-       "cssom"      : "0.2.x",
-       "contextify" : "0.1.x"
+       "htmlparser" : "1.7.6",
+       "request"    : "2.9.203",
+       "cssom"      : "0.2.4",
+       "contextify" : "0.1.3"
     },
     "optionalDependencies": {
-       "contextify" : "0.1.x"
+       "contextify" : "0.1.3"
     },
     "devDependencies" : {
       "nodeunit" : ">=0.5.x",
